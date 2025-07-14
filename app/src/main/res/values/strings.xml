@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ev wheeler</string>
+    <string name="orp">ORP</string>
+    <string name="compare">Compare!</string>
+    <string name="enter_on_road_price">Enter on road price</string>
+    <string name="enter_mileage">Enter mileage</string>
+    <string name="enter_daily_commute">Enter daily commute</string>
+    <string name="text1">Enter on road price:</string>
+    <string name="text2">Enter ICE two wheeler details:</string>
+    <string name="text3">Enter mileage:</string>
+    <string name="text4">Enter daily commute:</string>
+</resources>
